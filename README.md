@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/rmsmalinda/Time-To-Cook/master/src/images/small%20logo%204%20-%20edited.png)
+
 # Time  To  Cook
 
 The food recipe  management  system
