@@ -98,3 +98,14 @@ development: උපචය, දියුණුව, ප්‍රවර්ධනය
 development: උපචය, දියුණුව, ප්‍රවර්ධනය, වර්ධනය, වැඩ, වැම, විකසනය, විකාශනය, විකාශය, සංවර්ධනය, සමෘද්ධිය
 
 -->
+## Built With
+
+* [NetBeans IDE](https://netbeans.org) - NetBeans IDE used
+* [Photoshop](https://www.adobe.com/products/photoshop.html) - Adobe Photoshop used
+
+## Authors
+
+* **Supun Malinda** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/rmsmalinda/time-to-cook/contributors) who participated in this project.
+
