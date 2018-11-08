@@ -109,6 +109,6 @@ development: උපචය, දියුණුව, ප්‍රවර්ධනය
 
 * **Supun Malinda** -  [Time To Cook](https://github.com/Time-To-Cook)
 * **Janaka c. Kumara** -  [Time To Cook](https://github.com/Time-To-Cook)
-See also the list of [contributors](https://github.com/rmsmalinda/time-to-cook/contributors) who participated in this project.
+*  See also the list of [contributors](https://github.com/rmsmalinda/time-to-cook/contributors) who participated in this project.
 
 development: Java  SE, MySQL
