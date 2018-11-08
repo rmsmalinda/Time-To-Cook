@@ -101,11 +101,14 @@ development: උපචය, දියුණුව, ප්‍රවර්ධනය
 ## Built With
 
 * [NetBeans IDE](https://netbeans.org) - NetBeans IDE used
+* [MySQL](https://www.mysql.com/) - MySQL used
+* [WampSever](www.wampserver.com/en/) - WampSever used
 * [Photoshop](https://www.adobe.com/products/photoshop.html) - Adobe Photoshop used
 
 ## Authors
 
-* **Supun Malinda** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
+* **Supun Malinda** -  [Time To Cook](https://github.com/Time-To-Cook)
+* **Janaka c. Kumara** -  [Time To Cook](https://github.com/Time-To-Cook)
 See also the list of [contributors](https://github.com/rmsmalinda/time-to-cook/contributors) who participated in this project.
 
+development: Java  SE, MySQL
